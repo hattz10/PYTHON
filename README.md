@@ -1,1 +1,1 @@
-#Repositorio com conteúdo em Python
+# Repositorio destinado as atividades de python
